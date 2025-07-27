@@ -1,6 +1,6 @@
 # 🏥 Biopsy Disease Progression Prediction (Celiac Disease)
 
-![Biopsy Sample Classes](images/marsh_classes.png)
+![Biopsy Sample Classes](images/marsh_classes.PNG)
 
 ##  Project Overview
 
