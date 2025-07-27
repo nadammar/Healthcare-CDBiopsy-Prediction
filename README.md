@@ -57,7 +57,7 @@ After evaluation with medical specialists, we decided to focus only on **three f
 
 ## 👨‍💻 Author
 
-Project developed by **Nada Ammar** during my **Healthcare Data Science Internship at IT Progress Online**, in collaboration with a biopsy laboratory, based on research on **Celiac Disease**.
+Project developed by **Nada Ammar** during my **Healthcare Data Science Internship at IT Progress**, in collaboration with a biopsy laboratory, based on research on **Celiac Disease**.
 
 
 
