@@ -1,1 +1,1 @@
-# Healthcare-CDBiopsy-Prediction
+# HealthcareBiopsy-Prediction
