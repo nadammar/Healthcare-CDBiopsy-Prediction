@@ -1,10 +1,12 @@
 # 🏥 Biopsy Disease Progression Prediction (Celiac Disease)
 
-![Biopsy Sample Classes](images/marsh_classes.PNG)
+
 
 ##  Project Overview
 
 This project was completed during my **Healthcare Data Science Internship at IT Progress Online (July 2022 – August 2022)**. It is based on research focused on **Celiac Disease**, aiming to predict disease progression from biopsy images. The data was collected in collaboration with a biopsy laboratory and is **confidential**.
+
+![Biopsy Sample Classes](images/marsh_classes.PNG)
 
 We initially experimented with **six classes** of biopsy images based on the Marsh classification system (based on doctors' and specialists' decisions):
 
